@@ -22,13 +22,13 @@ Look for the Power BI Desktop icon on your desktop or search for it in the Start
 Click on the icon to launch the application.
 
 Key Performance Indicators (KPIs)
-Tata Open
-Tata Close
-Tata High
-Tata Low
+Tata Open,
+Tata Close,
+Tata High,
+Tata Low,
 
 Charts and Visualizations
-Stacked Bar Chart
-Stacked Column Chart
+Stacked Bar Chart,
+Stacked Column Chart,
 Line Chart:  Showing  trends year-wise, month-wise, day-wise, and quarter-wise.
 
